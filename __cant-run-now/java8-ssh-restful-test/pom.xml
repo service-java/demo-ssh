@@ -17,7 +17,7 @@
 		<hibernate-core>3.6.10.Final</hibernate-core>
 		<slf4j-nop>1.6.4</slf4j-nop>
 		<javassist>3.12.0.GA</javassist>
-		<mysql-connector-java>5.1.6</mysql-connector-java>
+		<mysql-connector-java>8.0.28</mysql-connector-java>
 		<javax-servlet-api>3.1.0</javax-servlet-api>
 	</properties>
 
