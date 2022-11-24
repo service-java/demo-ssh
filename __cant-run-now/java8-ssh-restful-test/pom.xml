@@ -14,7 +14,7 @@
 		<log4j>1.2.17</log4j>
 		<jstl>1.2</jstl>
 		<junit>3.8.1</junit>
-		<hibernate-core>3.6.10.Final</hibernate-core>
+		<hibernate-core>5.3.20.Final</hibernate-core>
 		<slf4j-nop>1.6.4</slf4j-nop>
 		<javassist>3.12.0.GA</javassist>
 		<mysql-connector-java>5.1.6</mysql-connector-java>
